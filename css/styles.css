@@ -1,4 +1,47 @@
 
-h1 {
-	color: green; 
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header h5 {
+	padding: 10px 30px;
+}
+
+header {
+	padding: 15px 0px;
+}
+
+
+
+#company_name {
+	color: #ED7D31; 
+	font-family: Arial Rounded MT Bold;
+	text-align: center;
+	font-size: 100px;
+	padding-top: 20px; 
+	margin-bottom: 0px;
+}
+
+#company_logo {
+	width: 90%;
+}
+
+#company_slogan {
+	color: #ED7D31;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.company_introduction {
+	background-color: #e0fffc;
+	padding-top: 5px;
+}
+
+.location {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px; 
 }
