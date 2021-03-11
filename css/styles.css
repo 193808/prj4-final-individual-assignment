@@ -1,4 +1,7 @@
 
+body {
+	background-color: #fdfeff
+} 	
 
 header nav {
   display: flex;
@@ -6,11 +9,14 @@ header nav {
 }
 
 header h5 {
-	padding: 10px 30px;
+	padding: 10px 0px;
+	padding-left: 30px; 
 }
 
 header {
 	padding: 15px 0px;
+	color: black;
+	background-color: white;
 }
 
 
@@ -40,8 +46,49 @@ header {
 	padding-top: 5px;
 }
 
-.location {
-	font-size: 20px;
-	text-align: center;
+#locations {
+	font-size: 23px;
 	padding-top: 10px; 
+	color: #d16805;
+	padding: 33px 33px;
 }
+
+
+
+h3 { 
+	font-size: 60px; 
+	font-family: Arial Rounded MT Std;
+	background-color: #e0fffc;
+} 
+
+#mission {
+	margin-top: 50px; 
+}
+
+#mission.p {
+	font-size: 17px;
+}
+
+#offers {
+	margin-top: 45px; 
+}
+ 
+
+#offers.p {
+	font-size: 17px;
+}
+
+#ratings {
+	margin-top: 45px;
+}
+
+.bottom-picture {
+	max-width: 1107px;
+	margin-top: 10px;
+}
+
+footer {
+	padding-bottom: 25px; 
+	margin-top: 25px;
+}
+ 
