@@ -95,3 +95,53 @@ footer {
  #e-f-2 { 
 	max-width: 1200px;
  } 
+ 
+.jumbotron { 
+	background-color: #DAE3F3;
+	text-align: center;
+ } 
+ 
+ .offers_subtitle { 
+	font-size: 27px;
+ } 
+ 
+ #meal_description { 
+	border: 2px solid #ED7D31;
+	border-radius: 5px;
+ } 
+ 
+ 
+ #roman_meal { 
+	color: #ED7D31;
+	font-size: 33px;
+ } 
+
+ #greek_meal { 
+	color: #ED7D31;
+	font-size: 33px;
+ } 
+ 
+ #egyptian_meal { 
+	color: #ED7D31;
+	font-size: 33px;
+ } 
+ 
+ #meal_description_roman { 
+	border: 2px solid #ED7D31;
+	border-radius: 5px;
+ } 
+ 
+ #meal_description_greek { 
+	border: 2px solid #ED7D31;
+	border-radius: 5px;
+ } 
+ 
+ #meal_description_egyptian { 
+	border: 2px solid #ED7D31;
+	border-radius: 5px;
+ } 
+ 
+ .g-f-1 { 
+	width: 100%;
+	margin: 0px auto;
+ } 
